@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "error_defs.h": "c",
+        "hwa_i2c.h": "c",
+        "ina219.h": "c",
+        "data_handler.h": "c",
+        "oled_ssd1306.h": "c",
+        "display_handler.h": "c",
+        "setup_portal.h": "c"
+    }
+}
